@@ -29,6 +29,7 @@
 }
 .s2MidContainer {
     width: 900px;
+    padding: 20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -62,7 +63,7 @@
 .s2LastContainer img {
     margin-top: 50px;
     width: 100%;
-    height: 700px;
+    height: 470px;
 }
 .s2LastContainer div {
     padding: 50px;
