@@ -12,6 +12,9 @@ body,html {
     margin:0;
    
 }
+.fab {
+    font-size: 40px;
+}
 .s1,.s2,.s3 {
     display: flex;
     height: 100vh;
