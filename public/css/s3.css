@@ -41,7 +41,8 @@ align-items: center;
     -o-border-radius: 0 10px 10px 0px;
 }
 .main1 {
-    background: #ffffff61;
+    color: white;
+    background: #000000b0;
     padding: 30px;
     width: 300px;
     height: 100%;
